@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" max-height: 100% src="https://thumbs.gfycat.com/AdventurousNeatGrayreefshark-size_restricted.gif"  height="175px"/></a>
+<a href="#"><img width="100%" height="100%" src="https://thumbs.gfycat.com/AdventurousNeatGrayreefshark-size_restricted.gif"  /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christian</h1>
 <h3 align="center">I'm a  Software Developer currently in the SF Bay Area.</h3>
@@ -37,8 +37,8 @@
 
   <br/>
   <p align="center">
-      <a href="https://github.com/Zopyros/github-readme-stats"><img height="200" alt="Zopyros" Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zopyros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/Zopyros/github-readme-stats"><img height="200"   alt="Zopyros" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zopyros&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/Zopyros/github-readme-stats"><img height="200" width="auto"  alt="Zopyros' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zopyros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Zopyros/github-readme-stats"><img height="200"  width="auto" alt="Zopyros" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zopyros&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>

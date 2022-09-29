@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="200px" src="https://thumbs.gfycat.com/AdventurousNeatGrayreefshark-size_restricted.gif"  /></a>
+<a href="#"><img width="100%" height="200px" src="https://thumbs.gfycat.com/FormalWhichGypsymoth-mobile.mp4"  /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christian</h1>
 <h3 align="center">I'm a  Software Developer currently in the SF Bay Area.</h3>

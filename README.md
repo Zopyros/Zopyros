@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="150px" src="https://i.pinimg.com/originals/c2/b6/63/c2b6634c484d5e27903b2caa8eb2aea9.gif" /></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christian</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Christian</h1>
 <h3 align="center">I'm a  Software Developer currently in the SF Bay Area.</h3>
 
 
